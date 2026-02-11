@@ -29,9 +29,9 @@ For clarity, the following terms have the meanings below:
 
 ## 2. Eligibility and age requirements
 
-The App is intended for users **18 years of age or older**. By using the App, you represent that you are at least 18 and that you have the legal capacity to enter into these Terms.
+The App is intended for users **13 years of age or older**. By using the App, you represent that you are at least 13 and that you have the legal capacity to enter into these Terms.
 
-We do not knowingly allow use by, or provide Services to, individuals under 18.
+We do not knowingly allow use by, or provide Services to, individuals under 13.
 
 ---
 
