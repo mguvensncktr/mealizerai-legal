@@ -23,9 +23,9 @@ This Policy applies to personal information processed when you use Mealizer AI o
 
 ## 2. Eligibility and children's privacy
 
-Mealizer AI is intended for users **18 years of age or older**. We do not knowingly allow use by or collect personal information from individuals under 18.
+Mealizer AI is intended for users **13 years of age or older**. We do not knowingly allow use by or collect personal information from individuals under 13.
 
-If you are a parent or guardian and believe a user under 18 has provided personal information, please contact us. We will take steps to delete the information.
+If you are a parent or guardian and believe a user under 13 has provided personal information, please contact us. We will take steps to delete the information.
 
 ---
 
