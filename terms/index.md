@@ -1,7 +1,7 @@
 # Mealizer AI: Meal Planner — Terms of Use
 
 **Effective date:** February 3, 2026  
-**Last updated:** February 3, 2026
+**Last updated:** October 12, 2026
 
 These Terms of Use ("**Terms**") form a binding legal agreement between you and **Murat Guven Sancaktar** ("**we**", "**us**", "**our**"), the individual publisher of **Mealizer AI: Meal Planner** (the "**App**"). The App provides meal-planning and shopping-list features and AI-powered assistance (the "**Services**").
 
@@ -20,8 +20,8 @@ For clarity, the following terms have the meanings below:
 
 - **"App"** means Mealizer AI: Meal Planner and all related software, updates, and documentation we provide.
 - **"Services"** means the App features and any related services we provide.
-- **"AI Features"** means features that use third-party AI (Google Gemini) to generate or revise meal plans/meals.
-- **"Third-Party Services"** means services provided by third parties that the App uses or integrates with (including Apple, Google, Convex, Expo, and Google Gemini).
+- **"AI Features"** means features that use third-party AI (Claude by Anthropic) to generate or revise meal plans and meals, including the in-app AI assistant when it is available.
+- **"Third-Party Services"** means services provided by third parties that the App uses or integrates with (including Apple, Convex, Expo, RevenueCat and Anthropic).
 - **"Content"** means all text, meal plans, suggestions, and other outputs provided through the App, including AI-generated outputs.
 - **"User Input"** means the information you enter into the App (including profile fields and prompts/messages you submit to AI Features).
 
@@ -79,12 +79,12 @@ We may suspend or terminate access for violations.
 
 ---
 
-## 7. AI Features (Google Gemini)
+## 7. AI Features (Anthropic)
 
 ### 7.1 When AI is used
 AI processing happens when you actively use AI Features, including:
 - Generating a meal plan, and
-- Chatting with AI to revise or refine an existing plan or meal (for example swapping ingredients, adjusting portions, regenerating a day, or tailoring meals).
+- Chatting with the AI assistant, when available, to revise or refine an existing plan or meal (for example swapping ingredients, adjusting portions, regenerating a day, or tailoring meals).
 
 ### 7.2 What you may submit to AI
 When using AI Features, you may submit User Input such as profile information, preferences, and your instructions/messages. You must ensure your User Input is accurate and that you have the right to provide it.
@@ -94,10 +94,10 @@ When using AI Features, you may submit User Input such as profile information, p
 - Confidential information you do not have the right to share,
 - Anything illegal, abusive, or that violates others' rights.
 
-### 7.3 How AI data is handled (no chat history stored by us)
-We do **not** store your AI chat messages or chat history in our database. After a chat-based revision, we store only the **updated plan/meal content** so you can view the result later.
+### 7.3 How AI data is handled
+Your plans and meals, including revisions, are stored so you can view them later. If the AI assistant shows your conversation history, those messages are stored with your plans until you delete them or your data.
 
-However, your prompts/messages and related context are transmitted to the third-party AI provider (Google Gemini). The AI provider may retain and process that data under its own policies (including abuse monitoring). This is described in our Privacy Policy.
+Your answers, requests and messages, with the context needed to fulfil them, are sent to the third-party AI provider (Anthropic). The provider may retain and process that data for a limited time under its own policies. You agree to this when you finish onboarding, as described in our Privacy Policy.
 
 ### 7.4 AI output limitations
 AI outputs are generated automatically and may be inaccurate, incomplete, or unsuitable. You are responsible for how you use AI outputs. We do not guarantee that AI outputs will be correct, safe, or appropriate for any specific purpose.
@@ -155,8 +155,9 @@ If you submit feedback or suggestions, you grant us a non-exclusive, worldwide, 
 
 The App relies on Third-Party Services, which may include:
 - **Apple App Store** and **Google Play** (distribution and billing),
-- **Google Gemini** (AI generation and AI chat revisions),
-- **Convex** (backend/database hosting in the EU region),
+- **Anthropic** (AI generation and the AI assistant),
+- **RevenueCat** (subscription management),
+- **Convex** (backend and database hosting),
 - **Expo** (push notification delivery services).
 
 Third-Party Services may have their own terms and policies. We are not responsible for Third-Party Services and do not control them.

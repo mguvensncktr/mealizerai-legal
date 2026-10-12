@@ -1,6 +1,6 @@
 # Delete Account & Data Erasure — Mealizer AI: Meal Planner
 **Effective date:** February 3, 2026  
-**Last updated:** February 3, 2026
+**Last updated:** October 12, 2026
 
 This page explains how to delete your account/data in Mealizer AI: Meal Planner and what happens when you do.
 
@@ -57,8 +57,8 @@ Even after a hard delete from primary storage, some data may remain **temporaril
 
 These are retained only for a limited period and then deleted or overwritten (see Section 4).
 
-### 3.3 Third-party AI provider retention (Google Gemini)
-When you use AI features, your prompts/context and generated outputs are processed by the AI provider. The AI provider may retain prompts/context/outputs for a limited period for abuse monitoring. This retention is governed by the provider’s policies.
+### 3.3 Third-party AI provider retention (Anthropic)
+When you use AI features, your requests, context and generated outputs are processed by the AI provider (Anthropic). The provider may retain them for a limited period under its own policies. Deleting your data in the app does not reach copies the provider still holds.
 
 ---
 
@@ -70,7 +70,7 @@ Once you confirm deletion inside the app, we delete your profile, meal plans, pu
 Some data may remain in backups/logs for a limited time (for example, up to **90 days**) and is then deleted or overwritten as part of normal maintenance.
 
 ### 4.3 AI provider retention window
-The AI provider may retain prompts/context/outputs for a limited period (for example, **55 days**) for abuse monitoring and policy enforcement, as described in our Privacy Policy.
+The AI provider deletes API inputs and outputs within a limited period (currently **30 days**, according to Anthropic), except where it must keep them longer to enforce its usage policies or comply with the law, as described in our Privacy Policy.
 
 ---
 
