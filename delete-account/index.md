@@ -11,7 +11,7 @@ This page explains how to delete your account/data in Mealizer AI: Meal Planner 
 ## 1) Where to delete your account (in the app)
 You can delete your account/data directly inside the app:
 
-**Profile → Account → “Delete My Account”**
+**Profile → “Delete account and data”**
 
 When you tap the button:
 1. You will see a **clear warning** stating that your data will be deleted.
@@ -33,6 +33,7 @@ When you confirm account deletion, we perform a **hard delete** from our primary
 ### 2.2 Meal plans & AI-generated outputs stored by the app
 - Meal plans generated for you
 - Any revisions or updates to your plans/meals created by the AI features (we store the updated plan/meal so you can view it later)
+- Your conversations with the AI assistant (Nori), including replies you reported
 
 ### 2.3 Push notification token (if enabled)
 - If you enabled notifications, we store a push token to deliver notifications. This token is deleted when you delete your account/data.
@@ -64,7 +65,7 @@ When you use AI features, your requests, context and generated outputs are proce
 
 ## 4) How long deletion takes
 ### 4.1 Primary deletion
-Once you confirm deletion inside the app, we delete your profile, meal plans, push token, and related records from **primary storage**.
+Once you confirm deletion inside the app, we delete your profile, meal plans, AI assistant conversations, push token, and related records from **primary storage**.
 
 ### 4.2 Backups and logs
 Some data may remain in backups/logs for a limited time (for example, up to **90 days**) and is then deleted or overwritten as part of normal maintenance.

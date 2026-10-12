@@ -62,14 +62,14 @@ From these answers the app calculates your daily calorie, protein, carbohydrate,
 - Ingredients you list when you ask for a meal from what you have at home  
 - Your meal plans, recipes and any changes you make to them  
 - Your shopping list and which items you have ticked off  
-- Messages you send to the in-app AI assistant, when that feature is available (see section 4.3)  
+- Your conversations with the in-app AI assistant, Nori, and any reply you report (see section 4.3)  
 
 ### 4.3 Third-party AI processing (Anthropic)
 
-Mealizer AI uses a third-party AI service, **Claude by Anthropic, PBC**, to write meal plans and recipes, and to power the in-app AI assistant once it is available.
+Mealizer AI uses a third-party AI service, **Claude by Anthropic, PBC**, to write meal plans and recipes, and to power the in-app AI assistant, Nori.
 
 **When AI processing happens**  
-Only when you use an AI feature: (a) creating a meal, day or week plan, including a meal from ingredients you have at home, and (b) chatting with the AI assistant about your plans and meals, for example to swap an ingredient, adjust a portion, or revise a day or a whole plan.
+Only when you use an AI feature: (a) creating a meal, day or week plan, including a meal from ingredients you have at home, and (b) chatting with Nori about your plans, meals, targets and cooking, for example to swap a meal, replace an ingredient you don't have at home, or regenerate a day of a plan.
 
 **What is sent to Anthropic**  
 Only what is needed for your request:
@@ -79,7 +79,7 @@ Only what is needed for your request:
 - Favourite cuisines, meals per day, cooking skill, time per meal and budget  
 - The app language (so that dishes and ingredients are familiar where that language is spoken), the current month (for seasonal produce) and recent dish names (to avoid repeats)  
 - Your plan note and the ingredients you listed, if you added them  
-- For the AI assistant: your messages and the plan or meal you are asking about  
+- For the AI assistant: your messages in that conversation, its earlier replies, and the plan, meal and targets you are asking about  
 
 **What is not sent to Anthropic**
 
@@ -92,7 +92,10 @@ Only what is needed for your request:
 AI-generated content: meal plans, recipes, ingredient lists and, for the assistant, its replies and revised plans or meals.
 
 **How we store AI-related data**  
-We store your profile and the resulting plans and recipes, including revisions, so you can see them later. If the AI assistant shows your conversation history, those messages are stored with your plans until you delete them or your data.
+We store your profile and the resulting plans and recipes, including revisions, so you can see them later. Your conversations with Nori are stored so you can return to them, until you delete a conversation or your data. We keep up to 30 conversations per installation; older ones are deleted automatically. If you report a reply, we store the report with that message so we can review it. We also keep usage counts (for example how many messages you sent today) to apply fair-use limits.
+
+**Please do not share sensitive health information in the chat**  
+Nori is a food and meal-planning helper, not a medical service. It does not diagnose or treat conditions; for medical questions, talk to a doctor or dietitian.
 
 **AI provider retention**  
 Anthropic states that it does not use data sent through its commercial API to train its models, and that it deletes API inputs and outputs within a limited period (currently 30 days), except where it must keep them longer to enforce its usage policies or comply with the law. See Anthropic's privacy policy and commercial terms for details.
@@ -137,7 +140,7 @@ We do not use these for advertising or cross-app tracking, and we do not use thi
 
 - To provide core features: store your profile, plans, recipes and shopping list  
 - To calculate your targets and generate plans and recipes with AI  
-- To run the AI assistant when it is available  
+- To run the AI assistant, including fair-use limits that prevent abuse  
 - To manage subscriptions and unlock paid features  
 - To send notifications you allowed  
 - To keep the app secure, reliable and within fair-use limits  
@@ -179,14 +182,14 @@ Our service providers (including Convex, Anthropic, RevenueCat and Expo) may pro
 
 ### 10.1 Retention
 
-- **Profile, plans, recipes, shopping list and AI assistant messages:** until you delete your data in the app  
+- **Profile, plans, recipes, shopping list and AI assistant conversations:** until you delete them or your data in the app (at most 30 conversations are kept per installation)  
 - **Push token:** while notifications are on; deleted when you turn them off or delete your data  
 - **Subscription records:** while needed to unlock paid features and handle subscription issues  
 - **Usage counts, logs and backups:** up to 90 days, then deleted or overwritten  
 
 ### 10.2 Deletion
 
-You can delete your data from within the app (Profile → "Delete account and data"). We then delete your profile, plans, recipes, shopping list, push token and related records from our database. Some data may remain in backups or logs for up to 90 days. Apple and RevenueCat keep purchase records under their own policies.
+You can delete your data from within the app (Profile → "Delete account and data"). We then delete your profile, plans, recipes, shopping list, AI assistant conversations, push token and related records from our database. Some data may remain in backups or logs for up to 90 days. Apple and RevenueCat keep purchase records under their own policies.
 
 ---
 

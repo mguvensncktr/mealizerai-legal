@@ -20,7 +20,7 @@ For clarity, the following terms have the meanings below:
 
 - **"App"** means Mealizer AI: Meal Planner and all related software, updates, and documentation we provide.
 - **"Services"** means the App features and any related services we provide.
-- **"AI Features"** means features that use third-party AI (Claude by Anthropic) to generate or revise meal plans and meals, including the in-app AI assistant when it is available.
+- **"AI Features"** means features that use third-party AI (Claude by Anthropic) to generate or revise meal plans and meals, including the in-app AI assistant, Nori.
 - **"Third-Party Services"** means services provided by third parties that the App uses or integrates with (including Apple, Convex, Expo, RevenueCat and Anthropic).
 - **"Content"** means all text, meal plans, suggestions, and other outputs provided through the App, including AI-generated outputs.
 - **"User Input"** means the information you enter into the App (including profile fields and prompts/messages you submit to AI Features).
@@ -84,7 +84,7 @@ We may suspend or terminate access for violations.
 ### 7.1 When AI is used
 AI processing happens when you actively use AI Features, including:
 - Generating a meal plan, and
-- Chatting with the AI assistant, when available, to revise or refine an existing plan or meal (for example swapping ingredients, adjusting portions, regenerating a day, or tailoring meals).
+- Chatting with the AI assistant, Nori, about your plans and meals, and asking it to revise them (for example swapping a meal, replacing an ingredient, or regenerating a day). Nori only helps with food, nutrition and the App; messages are subject to daily fair-use limits.
 
 ### 7.2 What you may submit to AI
 When using AI Features, you may submit User Input such as profile information, preferences, and your instructions/messages. You must ensure your User Input is accurate and that you have the right to provide it.
@@ -95,7 +95,7 @@ When using AI Features, you may submit User Input such as profile information, p
 - Anything illegal, abusive, or that violates others' rights.
 
 ### 7.3 How AI data is handled
-Your plans and meals, including revisions, are stored so you can view them later. If the AI assistant shows your conversation history, those messages are stored with your plans until you delete them or your data.
+Your plans and meals, including revisions, are stored so you can view them later. Your conversations with the AI assistant are stored so you can return to them, until you delete a conversation or your data (at most 30 conversations are kept per installation).
 
 Your answers, requests and messages, with the context needed to fulfil them, are sent to the third-party AI provider (Anthropic). The provider may retain and process that data for a limited time under its own policies. You agree to this when you finish onboarding, as described in our Privacy Policy.
 
