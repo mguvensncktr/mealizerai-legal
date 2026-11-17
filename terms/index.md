@@ -1,9 +1,9 @@
-# Mealizer AI: Meal Planner — Terms of Use
+# Nori — Terms of Use
 
 **Effective date:** February 3, 2026  
-**Last updated:** October 12, 2026
+**Last updated:** November 17, 2026
 
-These Terms of Use ("**Terms**") form a binding legal agreement between you and **Murat Guven Sancaktar** ("**we**", "**us**", "**our**"), the individual publisher of **Mealizer AI: Meal Planner** (the "**App**"). The App provides meal-planning and shopping-list features and AI-powered assistance (the "**Services**").
+These Terms of Use ("**Terms**") form a binding legal agreement between you and **Murat Guven Sancaktar** ("**we**", "**us**", "**our**"), the individual publisher of **Nori** (the "**App**"). The App provides meal-planning and shopping-list features and AI-powered assistance (the "**Services**").
 
 **Publisher / Contact**  
 - **Publisher:** Murat Guven Sancaktar (individual)  
@@ -18,9 +18,9 @@ By downloading, accessing, or using the App, you agree to these Terms. If you do
 
 For clarity, the following terms have the meanings below:
 
-- **"App"** means Mealizer AI: Meal Planner and all related software, updates, and documentation we provide.
+- **"App"** means Nori and all related software, updates, and documentation we provide.
 - **"Services"** means the App features and any related services we provide.
-- **"AI Features"** means features that use third-party AI (Claude by Anthropic) to generate or revise meal plans and meals, including the in-app AI assistant, Nori.
+- **"AI Features"** means features that use third-party AI (Claude by Anthropic) to generate or revise meal plans and meals, including the in-app AI assistant.
 - **"Third-Party Services"** means services provided by third parties that the App uses or integrates with (including Apple, Convex, Expo, RevenueCat and Anthropic).
 - **"Content"** means all text, meal plans, suggestions, and other outputs provided through the App, including AI-generated outputs.
 - **"User Input"** means the information you enter into the App (including profile fields and prompts/messages you submit to AI Features).

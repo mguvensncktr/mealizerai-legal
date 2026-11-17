@@ -1,10 +1,10 @@
-# Delete Account & Data Erasure — Mealizer AI: Meal Planner
+# Delete Account & Data Erasure — Nori
 **Effective date:** February 3, 2026  
-**Last updated:** October 12, 2026
+**Last updated:** November 17, 2026
 
-This page explains how to delete your account/data in Mealizer AI: Meal Planner and what happens when you do.
+This page explains how to delete your account/data in Nori and what happens when you do.
 
-> **Important note about accounts:** Mealizer AI does not use traditional sign-in (no email/Apple/Google login). Your data is associated with a random unique identifier generated for your app installation. “Account” on this page refers to the data linked to that identifier.
+> **Important note about accounts:** Nori does not use traditional sign-in (no email/Apple/Google login). Your data is associated with a random unique identifier generated for your app installation. “Account” on this page refers to the data linked to that identifier.
 
 ---
 
@@ -47,7 +47,7 @@ When you confirm account deletion, we perform a **hard delete** from our primary
 ### 3.1 App Store / Google Play subscription history
 If you purchased a subscription via Apple App Store or Google Play:
 - **Payments and subscription management are handled by Apple/Google.**
-- Deleting your account in Mealizer AI **does not cancel** your subscription.
+- Deleting your account in Nori **does not cancel** your subscription.
 - You must cancel your subscription in your device’s subscription settings (App Store / Google Play).
 
 We may store limited purchase/receipt identifiers needed to validate paid access while your subscription is active. After you delete your account/data, any purchase history still exists with Apple/Google under their policies.
