@@ -1,9 +1,9 @@
-# Nori — Terms of Use
+# Tadi — Terms of Use
 
 **Effective date:** February 3, 2026  
-**Last updated:** November 17, 2026
+**Last updated:** November 19, 2026
 
-These Terms of Use ("**Terms**") form a binding legal agreement between you and **Murat Guven Sancaktar** ("**we**", "**us**", "**our**"), the individual publisher of **Nori** (the "**App**"). The App provides meal-planning and shopping-list features and AI-powered assistance (the "**Services**").
+These Terms of Use ("**Terms**") form a binding legal agreement between you and **Murat Guven Sancaktar** ("**we**", "**us**", "**our**"), the individual publisher of **Tadi** (the "**App**"). The App provides meal-planning and shopping-list features and AI-powered assistance (the "**Services**").
 
 **Publisher / Contact**  
 - **Publisher:** Murat Guven Sancaktar (individual)  
@@ -18,7 +18,7 @@ By downloading, accessing, or using the App, you agree to these Terms. If you do
 
 For clarity, the following terms have the meanings below:
 
-- **"App"** means Nori and all related software, updates, and documentation we provide.
+- **"App"** means Tadi and all related software, updates, and documentation we provide.
 - **"Services"** means the App features and any related services we provide.
 - **"AI Features"** means features that use third-party AI (Claude by Anthropic) to generate or revise meal plans and meals, including the in-app AI assistant.
 - **"Third-Party Services"** means services provided by third parties that the App uses or integrates with (including Apple, Convex, Expo, RevenueCat and Anthropic).
@@ -84,7 +84,7 @@ We may suspend or terminate access for violations.
 ### 7.1 When AI is used
 AI processing happens when you actively use AI Features, including:
 - Generating a meal plan, and
-- Chatting with the AI assistant, Nori, about your plans and meals, and asking it to revise them (for example swapping a meal, replacing an ingredient, or regenerating a day). Nori only helps with food, nutrition and the App; messages are subject to daily fair-use limits.
+- Chatting with the AI assistant, Tadi, about your plans and meals, and asking it to revise them (for example swapping a meal, replacing an ingredient, or regenerating a day). Tadi only helps with food, nutrition and the App; messages are subject to daily fair-use limits.
 
 ### 7.2 What you may submit to AI
 When using AI Features, you may submit User Input such as profile information, preferences, and your instructions/messages. You must ensure your User Input is accurate and that you have the right to provide it.
